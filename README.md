@@ -24,13 +24,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS, JavaScript, Git  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
 
-⚙️ **Projects:**  
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
-&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
-
-🎯 **Focus Areas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 75+ LeetCode problems  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Backend Dev, Full Stack, ML
+⚙️ **Skills Snapshot:**  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 75+ Leetcode problems solved  
+&nbsp;&nbsp;&nbsp;&nbsp;🔍 Multiple real-world projects  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Strong backend and ML fundamentals
 
 🎨 **Design & Creativity:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Clean UIs, impactful tools, open source
@@ -39,10 +36,18 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://anikesh0001.github.io/anikesh-portfolio/"><img src="https://img.shields.io/badge/My%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:anikeshkr0001@gmail.com"><img src="https://img.shields.io/badge/Email-anikeshkr0001@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://anikesh0001.github.io/anikesh-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Anikesh_op">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Anikesh0001">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:anikeshkr0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -63,21 +68,15 @@
 
 ---
 
-## 📌 Pinned Repositories
-- 🔥 [Sales Chatbot](https://github.com/Anikesh0001/sales_chatbot)
-- 🎯 [PPT Generator](https://github.com/Anikesh0001/ppt_generator)
-- 🛒 [Amazon Clone](https://github.com/Anikesh0001/amazon-clone)
-- 📷 [Instagram Clone](https://github.com/Anikesh0001/Instagram_clone)
-- 🎮 [Game](https://github.com/Anikesh0001/game)
-- 📂 [Portfolio Source](https://github.com/Anikesh0001/anikesh-portfolio)
+## 🚀 Highlighted Projects
+- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI chatbot for product queries  
+- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – UI clone using HTML/CSS  
+- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text-to-slide converter  
+- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – Static clone  
+- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Logic-based mini game  
+- 🧠 [**Clipboard QA System**](#) – (Private) Q&A from clipboard content
 
----
-
-## 🧭 My Developer Journey
-- 📘 2022: Started BSc Data Science @ IIT Madras  
-- 💻 2023: Solved 75+ Leetcode Problems  
-- 🧠 2024: Built 5+ projects and learned React  
-- 🚀 2025: Portfolio Deployed & Open Source Focus
+🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
 ---
 
@@ -109,9 +108,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Anikesh0001/Anikesh0001/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Built with ❤️ by Anikesh Kumar -->
+---
+
+<p align="center">Built with ❤️ by Anikesh Kumar</p>
