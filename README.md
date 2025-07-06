@@ -1,8 +1,14 @@
-# 👋 Anikesh Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20Enthusiast;DSA%20Lover;IITM%20Data%20Science%20Scholar;&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22" />
+</p>
 
-I am a passionate developer with a strong interest in **Data Science, Web Development**, and **Problem Solving**. I enjoy building impactful projects, learning new technologies, and contributing to real-world solutions.
+<h1 align="center">Hi 👋, I'm Anikesh Kumar</h1>
 
-🚀 **Full-Stack & Python Developer** | 🎯 **DSA Enthusiast** 
+<p align="center">
+🚀 Full-Stack & Python Developer | 🎯 DSA Enthusiast <br>
+📘 B.E. @ VVCE Mysore | BSc Data Science @ IIT Madras <br>
+📍 Samastipur, Bihar | 📫 anikeshkr0001@gmail.com
+</p>
 
 ---
 
@@ -14,7 +20,7 @@ I am a passionate developer with a strong interest in **Data Science, Web Develo
 
 💻 **Tech Stack:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, C, Java  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS,Javascript, Git  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS, JavaScript, Git  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
 
 ⚙️ **Projects:**  
@@ -22,65 +28,87 @@ I am a passionate developer with a strong interest in **Data Science, Web Develo
 &nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
 
 🎯 **Focus Areas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 Strong foundation in **Problem Solving** (75+ LeetCode problems)  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Learning **Machine Learning**, **Backend**, and **Full-Stack Development**
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 Solved 75+ LeetCode problems  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 Learning Full-Stack & ML for real-world apps
 
 🎨 **Design & Creativity:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Interested in crafting clean UIs and meaningful tech products
-
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anikesh_op)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Anikesh0001)
+&nbsp;&nbsp;&nbsp;&nbsp;Interested in building clean UIs & useful tech tools
 
 ---
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-# 🚀 Projects:
-Here are some of the projects I’ve worked on:
-
-- 📚 **Exam Monitoring System** – Python-based exam surveillance (Private)  
-- 💬 **[Sales Chatbot](https://github.com/Anikesh0001/sales_chatbot)** – AI chatbot for product queries  
-- 📷 **[Instagram Clone](https://github.com/Anikesh0001/Instagram_clone)** – Static clone using HTML/CSS  
-- 📋 **Clipboard QA System** – Clipboard text to Q&A tool (Private)  
-- 🎯 **[PPT Generator](https://github.com/Anikesh0001/ppt_generator)** – Converts text to slides using Python  
-- 🛒 **[Amazon Clone](https://github.com/Anikesh0001/amazon-clone)** – Frontend replica of Amazon  
-- 🎮 **[Game](https://github.com/Anikesh0001/game)** – Fun logic-based mini game
-
-Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
+## 🛠️ Tools & Technologies:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
+## 🚀 Highlighted Projects:
+- 📋 [**Clipboard QA System**](https://github.com/Anikesh0001/Clipboard-Question-Answering) – Clipboard text to Q&A (Private)  
+- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – Frontend replica using HTML/CSS  
+- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI chatbot for product queries  
+- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to PPT slide generator  
+- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Fun logic game  
+- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – HTML/CSS-based static clone  
+
+🔗 [Explore all my repositories](https://github.com/Anikesh0001)
+
+---
+
+## 📚 Currently Learning:
+- JavaScript DOM Manipulation  
+- Backend: Node.js, Express  
+- Databases: MySQL & MongoDB  
+
+## 🎯 Upcoming Goals:
+- Contribute to Open Source  
+- Build MERN stack full apps  
+- Master System Design & DSA  
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anikesh0001&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anikesh0001&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Anikesh0001&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Anikesh0001&icon=0&color=0" />
+</p>
+
+<!-- Built with ❤️ by Anikesh Kumar -->
