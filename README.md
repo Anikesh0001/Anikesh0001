@@ -2,7 +2,7 @@
 
 I am a passionate developer with a strong interest in **Data Science, Web Development**, and **Problem Solving**. I enjoy building impactful projects, learning new technologies, and contributing to real-world solutions.
 
-🚀 **Full-Stack & Python Developer** | 🎯 **DSA Enthusiast** | 📘 **IITM Data Science Scholar**
+🚀 **Full-Stack & Python Developer** | 🎯 **DSA Enthusiast** 
 
 ---
 
@@ -78,7 +78,7 @@ Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
