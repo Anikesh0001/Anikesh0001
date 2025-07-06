@@ -28,6 +28,7 @@ I am a passionate developer with a strong interest in **Data Science, Web Develo
 🎨 **Design & Creativity:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Interested in crafting clean UIs and meaningful tech products
 
+
 ---
 
 ## 🌐 Socials:
@@ -35,6 +36,7 @@ I am a passionate developer with a strong interest in **Data Science, Web Develo
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Anikesh0001)
 
 ---
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
@@ -66,8 +68,8 @@ Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Anikesh0001&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=shadow_green&hide_border=false&layout=compact&langs_count=8)
+![](https://nirzak-streak-stats.vercel.app/?user=Anikesh0001&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=shadow_green&hide_border=false&layout=compact)
 
 ---
 
@@ -82,5 +84,3 @@ Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Anikesh0001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
