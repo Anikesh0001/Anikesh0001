@@ -1,6 +1,13 @@
+<!-- Stylish Welcome Message -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=435&lines=🌟+Welcome+to+My+GitHub+Profile!+🌟" />
+</h2>
+
+<!-- Typing Animation Lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20Enthusiast;DSA%20Lover;&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;DSA+Lover;IITM+Data+Science+Scholar" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Anikesh Kumar</h1>
 
