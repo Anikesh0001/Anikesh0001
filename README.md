@@ -3,7 +3,7 @@
 🎓 B.E. Information Science Engineering @ Vidyavardhaka College of Engineering  
 📘 Online BSc Data Science @ IIT Madras  
 📍 Samastipur, Bihar, India  
-📫 anikeshkr0001@gmail.com | 📞 +91-9507071557  
+📫 anikeshkr0001@gmail.com 
 
 ---
 
