@@ -12,6 +12,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Anikesh0001)
 
 ---
+![Anikesh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anikesh0001&theme=react-dark)
+
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
