@@ -121,8 +121,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anikesh0001/Anikesh0001/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Anikesh0001/Anikesh0001/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
