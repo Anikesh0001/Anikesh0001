@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20Enthusiast;DSA%20Lover;IITM%20Data%20Science%20Scholar;&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Python%20Enthusiast;DSA%20Lover;&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anikesh Kumar</h1>
