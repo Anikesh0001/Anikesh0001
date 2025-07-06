@@ -14,7 +14,7 @@ I am a passionate developer with a strong interest in **Data Science, Web Develo
 
 💻 **Tech Stack:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, C, Java  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS (Basics), Git  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS,Javascript, Git  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
 
 ⚙️ **Projects:**  
