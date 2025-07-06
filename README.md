@@ -1,9 +1,9 @@
-<!-- Stylish Welcome Message -->
+<!-- Welcome Message (Plain Text) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=435&lines=🌟+Welcome+to+My+GitHub+Profile!+🌟" />
+  🌟 Welcome to My GitHub Profile! 🌟
 </h2>
 
-<!-- Typing Animation Lines -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;DSA+Lover;IITM+Data+Science+Scholar" />
 </p>
