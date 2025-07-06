@@ -1,20 +1,14 @@
-<!-- Welcome Message (Plain Text) -->
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://i.ibb.co/BKywNpbN/Whats-App-Image-2025-07-06-at-23-37-01.jpg" width="150" style="border-radius: 50%;" />
+</p>
+
+<!-- Welcome + Typing Animation -->
 <h2 align="center">
   🌟 Welcome to My GitHub Profile! 🌟
 </h2>
-
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;DSA+Lover;IITM+Data+Science+Scholar" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Anikesh Kumar</h1>
-
-<p align="center">
-🚀 Full-Stack & Python Developer | 🎯 DSA Enthusiast <br>
-📘 B.E. @ VVCE Mysore | BSc Data Science @ IIT Madras <br>
-📍 Samastipur, Bihar | 📫 anikeshkr0001@gmail.com
 </p>
 
 ---
@@ -31,19 +25,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
 
 ⚙️ **Projects:**  
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Building practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
 &nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
 
 🎯 **Focus Areas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 Solved 75+ LeetCode problems  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Learning Full-Stack & ML for real-world apps
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 75+ LeetCode problems  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 Backend Dev, Full Stack, ML
 
 🎨 **Design & Creativity:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Interested in building clean UIs & useful tech tools
+&nbsp;&nbsp;&nbsp;&nbsp;Clean UIs, impactful tools, open source
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
@@ -51,7 +45,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -67,31 +61,31 @@
 
 ---
 
-## 🚀 Highlighted Projects:
-- 📋 [**Clipboard QA System**](https://github.com/Anikesh0001/Clipboard-Question-Answering) – Clipboard text to Q&A (Private)  
-- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – Frontend replica using HTML/CSS  
-- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI chatbot for product queries  
-- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to PPT slide generator  
-- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Fun logic game  
-- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – HTML/CSS-based static clone  
+## 🚀 Highlighted Projects
+- 📋 **Clipboard QA System** – Q&A from clipboard text (private)  
+- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
+- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – Static clone using HTML/CSS  
+- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to slide converter  
+- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
+- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Logic-based mini game
 
-🔗 [Explore all my repositories](https://github.com/Anikesh0001)
-
----
-
-## 📚 Currently Learning:
-- JavaScript DOM Manipulation  
-- Backend: Node.js, Express  
-- Databases: MySQL & MongoDB  
-
-## 🎯 Upcoming Goals:
-- Contribute to Open Source  
-- Build MERN stack full apps  
-- Master System Design & DSA  
+🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
 ---
 
-## 📊 GitHub Stats:
+## 📚 Currently Learning
+- 🔸 JavaScript DOM & Web APIs  
+- 🔸 Node.js, Express  
+- 🔸 MongoDB, SQL
+
+## 🎯 Upcoming Goals
+- ✅ More Open Source Contributions  
+- ✅ Build Full-Stack Projects  
+- ✅ Sharpen DSA & System Design
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false" /><br/>
