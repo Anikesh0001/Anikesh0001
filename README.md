@@ -39,10 +39,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="https://anikesh0001.github.io/anikesh-portfolio/"><img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:anikeshkr0001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
-  <a href="mailto:anikeshkr0001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://anikesh0001.github.io/anikesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -107,7 +107,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
 
 <!-- Built with ❤️ by Anikesh Kumar -->
