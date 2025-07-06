@@ -1,9 +1,32 @@
-# 💫 About Me:
-👋 Hi, I'm Anikesh Kumar  
-🎓 B.E. Information Science Engineering @ Vidyavardhaka College of Engineering  
-📘 Online BSc Data Science @ IIT Madras  
-📍 Samastipur, Bihar, India  
-📫 anikeshkr0001@gmail.com 
+# 👋 Anikesh Kumar
+
+I am a passionate developer with a strong interest in **Data Science, Web Development**, and **Problem Solving**. I enjoy building impactful projects, learning new technologies, and contributing to real-world solutions.
+
+🚀 **Full-Stack & Python Developer** | 🎯 **DSA Enthusiast** | 📘 **IITM Data Science Scholar**
+
+---
+
+## 🚀 About Me
+
+🎓 **Dual Degree:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 B.E. in Information Science Engineering @ **Vidyavardhaka College of Engineering, Mysore**  
+&nbsp;&nbsp;&nbsp;&nbsp;📘 Online BSc in Data Science @ **IIT Madras**
+
+💻 **Tech Stack:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, C, Java  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS (Basics), Git  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
+
+⚙️ **Projects:**  
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Building practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
+&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
+
+🎯 **Focus Areas:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 Strong foundation in **Problem Solving** (75+ LeetCode problems)  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 Learning **Machine Learning**, **Backend**, and **Full-Stack Development**
+
+🎨 **Design & Creativity:**  
+&nbsp;&nbsp;&nbsp;&nbsp;Interested in crafting clean UIs and meaningful tech products
 
 ---
 
@@ -12,7 +35,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Anikesh0001)
 
 ---
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
@@ -44,8 +66,8 @@ Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anikesh0001&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=shadow_green&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Anikesh0001&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=shadow_green&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
