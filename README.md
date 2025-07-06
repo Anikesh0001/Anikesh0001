@@ -39,10 +39,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://anikesh0001.github.io/anikesh-portfolio/"><img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:anikeshkr0001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
+  <a href="https://anikesh0001.github.io/anikesh-portfolio/"><img src="https://img.shields.io/badge/My%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://instagram.com/Anikesh_op"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://github.com/Anikesh0001"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:anikeshkr0001@gmail.com"><img src="https://img.shields.io/badge/Email-anikeshkr0001@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -63,15 +63,21 @@
 
 ---
 
-## 🚀 Highlighted Projects
-- 📋 **Clipboard QA System** – Q&A from clipboard text (private)  
-- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
-- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – Static clone using HTML/CSS  
-- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to slide converter  
-- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
-- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Logic-based mini game
+## 📌 Pinned Repositories
+- 🔥 [Sales Chatbot](https://github.com/Anikesh0001/sales_chatbot)
+- 🎯 [PPT Generator](https://github.com/Anikesh0001/ppt_generator)
+- 🛒 [Amazon Clone](https://github.com/Anikesh0001/amazon-clone)
+- 📷 [Instagram Clone](https://github.com/Anikesh0001/Instagram_clone)
+- 🎮 [Game](https://github.com/Anikesh0001/game)
+- 📂 [Portfolio Source](https://github.com/Anikesh0001/anikesh-portfolio)
 
-🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
+---
+
+## 🧭 My Developer Journey
+- 📘 2022: Started BSc Data Science @ IIT Madras  
+- 💻 2023: Solved 75+ Leetcode Problems  
+- 🧠 2024: Built 5+ projects and learned React  
+- 🚀 2025: Portfolio Deployed & Open Source Focus
 
 ---
 
