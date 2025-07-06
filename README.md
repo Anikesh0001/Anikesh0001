@@ -67,9 +67,9 @@ Explore more on my [GitHub profile](https://github.com/Anikesh0001) 🚀
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anikesh0001&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=shadow_green&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
