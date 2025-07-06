@@ -8,7 +8,7 @@
   🌟 Welcome to My GitHub Profile! 🌟
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;DSA+Lover;IITM+Data+Science+Scholar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;DSA+Lover" />
 </p>
 
 ---
