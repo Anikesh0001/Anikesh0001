@@ -124,7 +124,6 @@
   <img src="https://raw.githubusercontent.com/Anikesh0001/Anikesh0001/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
 ## ✍️ Dev Quote
