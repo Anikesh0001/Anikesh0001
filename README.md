@@ -22,22 +22,26 @@
 💻 **Tech Stack:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, C, Java  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 HTML, CSS, JavaScript, Git  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Currently exploring: DSA, Web Dev, and AI
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Exploring: DSA, Web Dev, AI/ML
 
-⚙️ **Skills Snapshot:**  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 75+ Leetcode problems solved  
-&nbsp;&nbsp;&nbsp;&nbsp;🔍 Multiple real-world projects  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 Strong backend and ML fundamentals
+⚙️ **Projects:**  
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
+&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
+
+🎯 **Focus Areas:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 75+ LeetCode problems  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 Backend Dev, Full Stack, System Design
 
 🎨 **Design & Creativity:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Clean UIs, impactful tools, open source
+&nbsp;&nbsp;&nbsp;&nbsp;Clean UIs, impactful tools, open-source drive
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://anikesh0001.github.io/anikesh-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://anikesh0001.github.io/anikesh-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
   <a href="https://instagram.com/Anikesh_op">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -53,6 +57,7 @@
 ---
 
 ## 🛠️ Tools & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -69,23 +74,26 @@
 ---
 
 ## 🚀 Highlighted Projects
-- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI chatbot for product queries  
-- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – UI clone using HTML/CSS  
-- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text-to-slide converter  
-- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – Static clone  
+
+- 📋 **Clipboard QA System** – Q&A from clipboard text *(private)*  
+- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
+- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – Static clone using HTML/CSS  
+- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to slide converter  
+- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
 - 🎮 [**Game**](https://github.com/Anikesh0001/game) – Logic-based mini game  
-- 🧠 [**Clipboard QA System**](#) – (Private) Q&A from clipboard content
 
 🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
 ---
 
 ## 📚 Currently Learning
+
 - 🔸 JavaScript DOM & Web APIs  
 - 🔸 Node.js, Express  
 - 🔸 MongoDB, SQL
 
 ## 🎯 Upcoming Goals
+
 - ✅ More Open Source Contributions  
 - ✅ Build Full-Stack Projects  
 - ✅ Sharpen DSA & System Design
@@ -93,6 +101,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false" /><br/>
@@ -102,6 +111,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anikesh0001&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
@@ -109,20 +119,19 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anikesh0001/Anikesh0001/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anikesh0001/Anikesh0001/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
-
-
 
 ---
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-<p align="center">Built with ❤️ by Anikesh Kumar</p>
+<!-- Built with ❤️ by Anikesh Kumar -->
