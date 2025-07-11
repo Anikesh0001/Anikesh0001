@@ -103,9 +103,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=Anikesh0001&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Anikesh0001">
+    <img alt="Anikesh's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=Anikesh0001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  </a>
+  <br/>
+
+  <!-- GitHub Streak Stats (Fallback to alternative endpoint) -->
+  <a href="https://github.com/Anikesh0001">
+    <img alt="Anikesh's GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Anikesh0001&theme=tokyonight&hide_border=false" />
+  </a>
+  <br/>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/Anikesh0001">
+    <img alt="Anikesh's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikesh0001&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+  </a>
+
 </p>
 
 ---
