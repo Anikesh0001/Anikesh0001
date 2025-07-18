@@ -100,7 +100,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
