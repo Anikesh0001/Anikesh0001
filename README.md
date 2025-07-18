@@ -77,10 +77,10 @@
 
 - 📋 **Clipboard QA System** – Q&A from clipboard text *(private)*  
 - 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
-- 🤖  [**Gmail AI Assistant **](https://github.com/Anikesh0001/gmail-ai-assistant-n8n) – Automate Gmail replies and searches using AI and n8n workflows
+- 🤖  [**Gmail AI Assistant**](https://github.com/Anikesh0001/gmail-ai-assistant-n8n) – Automate Gmail replies and searches using AI and n8n workflows
 - 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Generate ppt by Giving topic name 
 - 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
-- 🧠  [**Code Generator **](https://github.com/Anikesh0001/code-generator) – Generate code automatically by giving prompt
+- 🧠  [**Code Generator**](https://github.com/Anikesh0001/code-generator) – Generate code automatically by giving prompt
 
 🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
