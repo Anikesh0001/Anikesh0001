@@ -25,8 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Exploring: DSA, Web Dev, AI/ML
 
 ⚙️ **Projects:**  
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, and **Sales Chatbot**  
-&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 8+ repositories on GitHub
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, **Sales Chatbot** and **Automation**
+&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 15+ repositories on GitHub
 
 🎯 **Focus Areas:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 75+ LeetCode problems  
@@ -77,10 +77,10 @@
 
 - 📋 **Clipboard QA System** – Q&A from clipboard text *(private)*  
 - 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
-- 📷 [**Instagram Clone**](https://github.com/Anikesh0001/Instagram_clone) – Static clone using HTML/CSS  
-- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Text to slide converter  
+- 🤖  [**Gmail AI Assistant **](https://github.com/Anikesh0001/gmail-ai-assistant-n8n) – Automate Gmail replies and searches using AI and n8n workflows
+- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Generate ppt by Giving topic name 
 - 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
-- 🎮 [**Game**](https://github.com/Anikesh0001/game) – Logic-based mini game  
+- 🧠  [**Code Generator **](https://github.com/Anikesh0001/code-generator) – Generate code automatically by giving prompt
 
 🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
