@@ -75,12 +75,11 @@
 
 ## 🚀 Highlighted Projects
 
-- 📋 **Clipboard QA System** – Q&A from clipboard text *(private)*  
-- 💬 [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI Chatbot for product queries  
-- 🤖  [**Gmail AI Assistant**](https://github.com/Anikesh0001/gmail-ai-assistant-n8n) – Automate Gmail replies and searches using AI and n8n workflows
-- 🎯 [**PPT Generator**](https://github.com/Anikesh0001/ppt_generator) – Generate ppt by Giving topic name 
-- 🛒 [**Amazon Clone**](https://github.com/Anikesh0001/amazon-clone) – UI clone of Amazon  
-- 🧠  [**Code Generator**](https://github.com/Anikesh0001/code-generator) – Generate code automatically by giving prompt
+- 🎥 [**ProctoVision**](https://github.com/Anikesh0001/ProctoVision) – AI-based real-time exam proctoring system with object & pose detection  
+- 🗣️ [**Sales Chatbot**](https://github.com/Anikesh0001/sales_chatbot) – AI chatbot for handling product queries and assisting users  
+- 📬 [**Gmail AI Assistant (n8n)**](https://github.com/Anikesh0001/gmail-ai-assistant-n8n) – Automate Gmail searches & replies using n8n and AI workflows  
+- 🚦 [**Road Safety System**](https://github.com/Anikesh0001/road_safety) – Image-processing based road-safety detection system built for Hackathon  
+- 🧾 [**HackRx – Query Retrieval System**](https://github.com/Anikesh0001/hackrx) – LLM-powered intelligent document question–answering system (Gemini + Pinecone)
 
 🔗 [Explore More on GitHub →](https://github.com/Anikesh0001)
 
