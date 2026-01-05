@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📦 Published 15+ repositories on GitHub
 
 🎯 **Focus Areas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 75+ LeetCode problems  
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 100+ LeetCode problems  
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 Backend Dev, Full Stack, System Design
 
 🎨 **Design & Creativity:**  
