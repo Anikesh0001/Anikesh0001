@@ -26,7 +26,7 @@
 
 ⚙️ **Projects:**  
 &nbsp;&nbsp;&nbsp;&nbsp;✅ Practical tools like **Clipboard QA System**, **PPT Generator**, **Sales Chatbot** and **Automation**
-&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 15+ repositories on GitHub
+&nbsp;&nbsp;&nbsp;&nbsp;📦 Published 45+ repositories on GitHub
 
 🎯 **Focus Areas:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 100+ LeetCode problems  
