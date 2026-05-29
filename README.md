@@ -17,7 +17,7 @@
 
 🎓 **Dual Degree:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🎓 B.E. in Information Science Engineering @ **Vidyavardhaka College of Engineering, Mysore**  
-&nbsp;&nbsp;&nbsp;&nbsp;📘 Online BSc in Data Science @ **IIT Madras**
+&nbsp;&nbsp;&nbsp;&nbsp;📘 BSc in Data Science @ **IIT Madras**
 
 💻 **Tech Stack:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, C, Java  
